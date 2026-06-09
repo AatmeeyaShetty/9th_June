@@ -53,8 +53,10 @@ Command to install - npx playwright install
 # Setup Instructions
 1.Install Node.js (https://nodejs.org/en/download)
  To verify the installation :
+ ```bash
  node -v
  npm -v
+```
 2.Clone or download the repository 
  command: git clone <github.com/AatmeeyaShetty/9th_June> cd <project-folder>
 3.Install the requirements/dependencies listed in package.json
