@@ -14,6 +14,7 @@ The test covers the following functionalities:
 Page Object Model
 
 # Folder Structure
+```
 | 
 ├── tests/ 
 │   ├── login.spec.ts 
@@ -37,7 +38,7 @@ Page Object Model
 ├── playwright.config.ts 
 ├── package.json 
 └── README.md 
-
+```
 # Requirements
 Ensure you have the following installed on your device:
 System Requirements:
